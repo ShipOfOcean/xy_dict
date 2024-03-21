@@ -9,6 +9,7 @@
 ## 說明
 字典工具。
 
+<a href="https://github.com/ShipOfOcean/xy_dict.git" target="_blank">Github位址</a>
 
 ## 安裝
 

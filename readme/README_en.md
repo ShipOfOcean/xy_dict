@@ -7,6 +7,7 @@
 ## Description
 Dict tools.
 
+<a href="https://github.com/ShipOfOcean/xy_dict.git" target="_blank">Github</a>
 
 ## 安装
 
