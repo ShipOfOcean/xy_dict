@@ -13,7 +13,7 @@ description = "xy_dict 模块"
 
 dynamic = ["version"]
 
-classifiers = ["Programming Language :: Python :: 3.11.3"]
+classifiers = ["Programming Language :: Python :: 3"]
 
 dependencies = []
 
